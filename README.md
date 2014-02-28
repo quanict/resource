@@ -1,2 +1,1 @@
-resource
-========
+echo "this resource readme"
